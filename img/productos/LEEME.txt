@@ -1,0 +1,4 @@
+PRODUCTOS CONCEPTUALES
+productos-<nombre>-01.svg son ilustraciones provisionales (no fotografías).
+Para usar fotografías reales guarda productos-<nombre>-01.webp (4:5, 1200 x 1500 px) en esta carpeta: la web la detecta sola.
+Los nombres exactos están en docs/GUIA_IMAGENES_DSALMS.md (códigos DS-IMG-PRD-001 a 012).
